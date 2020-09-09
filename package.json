@@ -1,0 +1,21 @@
+{
+  "name": "getnews",
+  "version": "1.0.0",
+  "description": "A news blog and articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+
+  "author": "BRINDHA",
+  "license": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+ 
+}
